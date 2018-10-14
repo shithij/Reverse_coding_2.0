@@ -1,0 +1,95 @@
+.outputbox
+{
+	text-align: center;
+}
+
+form
+{
+	text-align: center;
+}
+
+.buttons
+{
+	align-content: center;
+}
+
+.outer
+{
+	display: table;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+.middle
+{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.inner
+{
+	background:black;
+	padding:20px;
+	margin:50px auto;
+	font-size:2.5em;
+	width:700px;
+	background-color: rgba(0,0,0,0.6);
+}
+
+img
+{
+	opacity: 0.8;
+	filter:
+}
+
+img:hover
+{
+	opacity: 1;
+	filter:
+}
+
+body
+{
+	background-image:url(background.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	backface-visibility: 50;
+}
+
+.bg
+{
+
+	background-color: black
+	opacity: 0.7;
+
+}
+
+.button 
+{
+    background-color: #55a5ff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    opacity: 0.8;
+}
+
+.button:hover
+{
+	opacity: 1;
+}
+
+.textb
+{
+	padding: 100;
+	width: 150px; 
+	height: 25px;
+	text-align: center;
+	border: 3px solid #55a5ff;
+	font-size: 20px;
+	color: #0a60bb;
+}
