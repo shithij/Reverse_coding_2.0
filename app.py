@@ -184,4 +184,4 @@ def end():
     return render_template('end.html')
 
 if __name__ == '__main__':
-    app.run(host='192.168.31.154', port=80, debug=True, threaded=True)
+    app.run(host='0.0.0.0', port=8000, debug=True, threaded=True)
